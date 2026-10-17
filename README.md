@@ -46,9 +46,6 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
   </tr>
 </table>
 
----
-
-### 🐍
 <div align="center">
   <img alt="GitHub Snake Game" src="github-contribution-grid-snake-dark.svg" width="100%">
 </div>
