@@ -33,9 +33,12 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 
 ---
 
-### 📊 Minhas Estatísticas (Tema Customizado Rose Pine)
+### 📊 Minhas Estatísticas
+
 <div align="center">
-  <img src="https://herokuapp.com" alt="Estatísticas do GitHub" height="180">
+  <img src="https://giphy.com" width="120" alt="Flor Pixel 1">
+  <img src="https://giphy.com" width="120" alt="Flor Pixel 2">
+  <img src="https://giphy.com" width="120" alt="Flor Pixel 3">
 </div>
 
 ---
