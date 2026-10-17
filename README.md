@@ -36,10 +36,10 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="flor1.gif" width="120" alt="Flor Pixel 1">
-  <img src="flor2.gif" width="120" alt="Flor Pixel 2">
-  <img src="flor1.gif" width="120" alt="Flor Pixel 3">
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Maria-Clara-F&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Clara-F&layout=compact&theme=dracula&hide_border=true" />
 </div>
+
 
 ---
 
