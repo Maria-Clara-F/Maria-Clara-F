@@ -35,11 +35,16 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Maria-Clara-F&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Clara-F&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Maria-Clara-F&show_icons=true&theme=dracula&hide_border=true" />
+    </td>
+    <td valign="middle">
+      <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Clara-F&layout=compact&theme=dracula&hide_border=true&card_width=320" />
+    </td>
+  </tr>
+</table>
 
 ---
 
