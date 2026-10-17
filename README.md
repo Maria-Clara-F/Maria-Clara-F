@@ -36,9 +36,9 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://giphy.com" width="120" alt="Flor Pixel 1">
-  <img src="https://giphy.com" width="120" alt="Flor Pixel 2">
-  <img src="https://giphy.com" width="120" alt="Flor Pixel 3">
+  <img src="flor1.gif" width="120" alt="Flor Pixel 1">
+  <img src="flor2.gif" width="120" alt="Flor Pixel 2">
+  <img src="flor1.gif" width="120" alt="Flor Pixel 3">
 </div>
 
 ---
