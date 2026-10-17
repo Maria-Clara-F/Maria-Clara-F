@@ -33,9 +33,9 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Minhas Estatísticas (Tema Customizado Rose Pine)
 <div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180">
+  <img src="https://herokuapp.com" alt="Estatísticas do GitHub" height="180">
 </div>
 
 ---
