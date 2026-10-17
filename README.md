@@ -35,7 +35,7 @@ Aqui estão as linguagens com as quais estou praticando e aprendendo:
 
 ### 📊 Minhas Estatísticas
 
-<table align="center">
+<table align="left">
   <tr>
     <td valign="middle">
       <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Maria-Clara-F&show_icons=true&theme=dracula&hide_border=true" />
